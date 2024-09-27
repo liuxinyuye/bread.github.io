@@ -3,3 +3,14 @@ alternate: HarmonyOS生活
 sidebar:
  position: left
  avatar: avart.png
+
+menu:
+  home: / || home
+  about: 
+    default: / || user
+    aboutsite: /about/ || user
+
+# reward:
+#   enable: true
+#   account:
+#     wechatpay: /wechatpay.jpg

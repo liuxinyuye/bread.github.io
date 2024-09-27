@@ -1,5 +1,6 @@
 ---
 title: git基础操作
+cover: https://ooo.0x0.ooo/2024/09/27/O4DH6K.jpg
 ---
 Welcome to the sunny wiki!
 

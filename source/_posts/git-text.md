@@ -2,6 +2,7 @@
 title:  UIAbility组件
 date: 2024-09-27 10:55:40
 tags:
+cover:  https://ooo.0x0.ooo/2024/09/27/O4H8zs.jpg
 ---
 ### 相关概念
 - UIAbility：UIAbility组件是一种包含UI界面的应用组件，主要用于和用户交互。UIAbility组件是系统调度的基本单元，为应用提供绘制界面的窗口；一个UIAbility组件中可以通过多个页面来实现一个功能模块。每一个UIAbility组件实例，都对应于一个最近任务列表中的任务。
